@@ -1,2 +1,2 @@
-# entropy-search-utility-functions
-Developing entropy search utility functions for Bayesian optimisation
+# Kullback-Leibler divergence in Python
+
