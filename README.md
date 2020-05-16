@@ -1,11 +1,11 @@
-# Kullback-Leibler divergence: Optimizing nu for Bayesian Optimization with Student's-t Processes
+# Kullback-Leibler divergence: Optimizing nu for Bayesian optimization with Student's-t Processes
 
-For nu > 2, nu <= 30.
+For: nu > 2, nu <= 30.
 
 Input dimensionality: dim = 1, 2, ... , 10
 
 Reference
 
-[1] Objective priors for the number of degrees of freedom of a multivariate t distribution and the t-copula
+[1] "Objective priors for the number of degrees of freedom of a multivariate t distribution and the t-copula"
 
 https://arxiv.org/abs/1701.05638
