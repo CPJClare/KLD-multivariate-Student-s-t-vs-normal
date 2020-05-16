@@ -1,4 +1,4 @@
-# Kullback-Leibler divergence in Python
+# Kullback-Leibler divergence: Optimizing nu for Bayesian Optimization with Student's-t Processes
 
 For nu > 2, nu <= 30.
 
