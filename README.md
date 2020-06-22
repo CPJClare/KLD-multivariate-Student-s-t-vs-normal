@@ -1,4 +1,4 @@
-# Kullback-Leibler divergence: Optimizing nu for Bayesian optimization with Student's-t Processes
+# Kullback-Leibler divergence: Optimising nu for Bayesian optimization with Student's-t Processes
 
 For: nu > 2, nu <= 30.
 
